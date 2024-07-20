@@ -26,14 +26,9 @@
     a:hover {
       color: #23527c;
     }
-   .prev,.next {
+    .prev, .next {
       font-size: 18px;
       font-weight: bold;
-    }
-   .alert {
-      background-color: #f0f0f0;
-      padding: 10px;
-      border: 1px solid #ccc;
     }
   </style>
 </head>
@@ -60,31 +55,9 @@
   <a href="#" class="prev">&laquo;</a>
   <a href="#" class="next">(N) &raquo;</a>
   
-  <!-- Alert message -->
-  <div class="alert">
-    <p>Внимание! Это новый проект, и мы работаем над его развитием.</p>
-  </div>
-  
   <!-- Footer section -->
   <footer>
     <p>&copy; 2023 ONYX ИНФОРМАЦИЯ. All rights reserved.</p>
   </footer>
-  
-  <!-- JavaScript code -->
-  <script>
-    // Add event listener to prev and next buttons
-    document.addEventListener("DOMContentLoaded", function() {
-      var prevButton = document.querySelector(".prev");
-      var nextButton = document.querySelector(".next");
-      
-      prevButton.addEventListener("click", function() {
-        alert("Previous page");
-      });
-      
-      nextButton.addEventListener("click", function() {
-        alert("Next page");
-      });
-    });
-  </script>
 </body>
 </html>
