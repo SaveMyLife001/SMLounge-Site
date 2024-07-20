@@ -36,11 +36,6 @@
   <h1>Введение</h1>
   <p>Опух - Новый проект который является 00:00 III 3 25 project.gitbook.io + 43 : ONYX ИНФОРМАЦИЯ</p>
   <h2>Критерии</h2>
-  <ul>
-    <li>Критерий 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-    <li>Критерий 2: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-    <li>Критерий 3: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-  </ul>
   <h2>ПРАВИЛА</h2>
   <ul>
     <li><a href="#">Правила Classic SCP: CS сервера</a></li>
@@ -54,10 +49,5 @@
   <p>Powered by GitBook</p>
   <a href="#" class="prev">&laquo;</a>
   <a href="#" class="next">(N) &raquo;</a>
-  
-  <!-- Footer section -->
-  <footer>
-    <p>&copy; 2023 ONYX ИНФОРМАЦИЯ. All rights reserved.</p>
-  </footer>
 </body>
 </html>
